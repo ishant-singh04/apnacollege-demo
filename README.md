@@ -1,4 +1,6 @@
 # apnacollege-demo
+Always remeber to tick the ADD README FILE SECTION whenever making the new repo.
+<br>
 This is my first repo after learning
 <br>
 It works on HTML cmds
